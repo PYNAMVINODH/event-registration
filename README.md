@@ -304,12 +304,13 @@ input {
 
 ## OUTPUT:
 login page:
+
 ![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/395cf0d6-6a35-43cd-a42a-fc53a0565db8)
-
 Register page:
-![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/d341426c-aa31-41ca-a471-ab1c88f71cf9)
 
+![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/d341426c-aa31-41ca-a471-ab1c88f71cf9)
 Opening page:
+
 ![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/a8fc0fe7-3dce-4d72-a489-409c05c2cabe)
 
 
