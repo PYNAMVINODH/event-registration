@@ -305,13 +305,16 @@ input {
 ## OUTPUT:
 login page:
 
-![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/395cf0d6-6a35-43cd-a42a-fc53a0565db8)
+![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/0fe10d29-0a37-4120-86f3-6dccf81e2661)
+
 Register page:
 
-![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/d341426c-aa31-41ca-a471-ab1c88f71cf9)
+![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/b1b39631-fbf5-46ae-ad22-6b4f89d4b488)
+
 Opening page:
 
-![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/a8fc0fe7-3dce-4d72-a489-409c05c2cabe)
+![image](https://github.com/PYNAMVINODH/event-registration/assets/145742678/9e57d96e-ea34-4ada-a10d-d855ef4499e1)
+
 
 
 
